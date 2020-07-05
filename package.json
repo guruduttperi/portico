@@ -1,0 +1,23 @@
+{
+  "name": "parmigiano",
+  "version": "1.0.0",
+  "description": "Fall 2020 Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruduttperi/parmigiano.git"
+  },
+  "keywords": [
+    "portfolio",
+    "design"
+  ],
+  "author": "Gurudutt Perichetla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruduttperi/parmigiano/issues"
+  },
+  "homepage": "https://github.com/guruduttperi/parmigiano#readme"
+}
