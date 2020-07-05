@@ -1,8 +1,8 @@
 # for root
-/*              /index.html     200
+/index.html       /
 ​
 # for the rest
-/about        /about.html     200
-/music      /music.html   200
-/waggle      /waggle.html   200
-/predator      /predator.html   200
+/about.html       /about
+/music.html       /music
+/waggle.html      /waggle
+/predator.html    /predator  
